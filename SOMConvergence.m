@@ -1,6 +1,6 @@
 function W = SOMConvergence(W, data)
 %SOMCONVERGENCE Summary of this function goes here
-%   Detailed explanation goes here
+%   Convergence Phase - SOM
 
 Delta = [];
 

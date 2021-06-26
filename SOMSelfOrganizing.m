@@ -1,4 +1,6 @@
 function W = SOMSelfOrganizing(W, data_train, t1, sigma0)
+%SOMSelfOrganizing Summary of this function goes here
+%   Self-Organizing Phase - SOM
 
 Delta = [];
 
